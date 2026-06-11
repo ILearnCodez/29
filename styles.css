@@ -12,7 +12,7 @@ body {
 
 #player-container {
   margin-top: 150px;
-  height: 500px;
+  height: 425px;
   overflow-y: auto;
 }
 .player-panel {
